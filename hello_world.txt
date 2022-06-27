@@ -1,1 +1,2 @@
 Adding text to learn git versioning
+Testing adding commit message via VSCode
